@@ -1,0 +1,5 @@
+Hola Mundo:
+
+Estamos aprendiendo Git en el Taller de Linux
+
+Febrero 2026
